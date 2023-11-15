@@ -1,0 +1,15 @@
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/bin/Debug/net6.0/kdzBabushkin
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/bin/Debug/net6.0/kdzBabushkin.deps.json
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/bin/Debug/net6.0/kdzBabushkin.runtimeconfig.json
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/bin/Debug/net6.0/kdzBabushkin.dll
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/bin/Debug/net6.0/kdzBabushkin.pdb
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.csproj.AssemblyReference.cache
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.AssemblyInfoInputs.cache
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.AssemblyInfo.cs
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.csproj.CoreCompileInputs.cache
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.dll
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/refint/kdzBabushkin.dll
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.pdb
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/kdzBabushkin.genruntimeconfig.cache
+/Users/vovababuskin/C#Projects/kdzBabushkin/kdzBabushkin/obj/Debug/net6.0/ref/kdzBabushkin.dll
